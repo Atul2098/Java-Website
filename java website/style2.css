@@ -1,0 +1,22 @@
+#html-code{
+    padding: 5%;
+}
+
+#css-code{
+    padding: 5%;
+}
+
+#js-code{
+    padding: 5%;
+}
+
+#output{
+    text-align: right;
+}
+
+body{
+    background: #454545;
+    color: #fff;
+}
+
+ 
